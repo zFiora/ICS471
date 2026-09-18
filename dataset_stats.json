@@ -1,0 +1,10 @@
+{
+  "total_messages": 5572,
+  "ham_count": 4825,
+  "spam_count": 747,
+  "spam_pct": 13.4,
+  "unique_messages": 5169,
+  "duplicate_messages": 403,
+  "ham_len_words_mean": 14.1,
+  "spam_len_words_mean": 23.7
+}
